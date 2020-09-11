@@ -1,0 +1,77 @@
+{
+  "farmers": [
+    {
+      "id": 1,
+      "surname": "Tim",
+      "firstName": "Cook",
+      "code": "FM-001",
+      "phone": "+234-802-332-1121",
+      "gender": "Male",
+      "imageUrl": "https://eu.ui-avatars.com/api/?name=Tim+Cook",
+      "location": "Nigeria",
+      "address": "Lagos, Nigeria",
+      "cardUrl": null,
+      "idCardStatus": false
+    },
+    {
+      "id": 2,
+      "surname": "Tim",
+      "firstName": "Cook",
+      "code": "FM-001",
+      "phone": "+234-802-332-1121",
+      "gender": "Male",
+      "imageUrl": "https://eu.ui-avatars.com/api/?name=Tim+Cook",
+      "location": "Nigeria",
+      "address": "Lagos, Nigeria",
+      "cardUrl": null,
+      "idCardStatus": false
+    },
+    {
+      "id": 3,
+      "surname": "Tim",
+      "firstName": "Cook",
+      "code": "FM-001",
+      "phone": "+234-802-332-1121",
+      "gender": "Male",
+      "imageUrl": "https://eu.ui-avatars.com/api/?name=Tim+Cook",
+      "location": "Nigeria",
+      "address": "Lagos, Nigeria",
+      "cardUrl": null,
+      "idCardStatus": false
+    },
+    {
+      "id": 4,
+      "surname": "Tim",
+      "firstName": "Cook",
+      "code": "FM-001",
+      "phone": "+234-802-332-1121",
+      "gender": "Male",
+      "imageUrl": "https://eu.ui-avatars.com/api/?name=Tim+Cook",
+      "location": "Nigeria",
+      "address": "Lagos, Nigeria",
+      "cardUrl": null,
+      "idCardStatus": false
+    },
+    {
+      "id": 5,
+      "surname": "Tim",
+      "firstName": "Cook",
+      "code": "FM-001",
+      "phone": "+234-802-332-1121",
+      "gender": "Male",
+      "imageUrl": "https://eu.ui-avatars.com/api/?name=Tim+Cook",
+      "location": "Nigeria",
+      "address": "Lagos, Nigeria",
+      "cardUrl": null,
+      "idCardStatus": false
+    }
+  ],
+  "profile": {
+    "username": "kira001",
+    "firstName": "Akeelah",
+    "lastName": "Richards",
+    "emailAddress": "kira001@mysite.org",
+    "phoneNumber": "+223-998-212-0876",
+    "imageUrl": "https://eu.ui-avatars.com/api/?name=Akeelah+Richards"
+  }
+}
