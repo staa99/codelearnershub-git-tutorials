@@ -73,5 +73,8 @@
     "emailAddress": "kira001@mysite.org",
     "phoneNumber": "+223-998-212-0876",
     "imageUrl": "https://eu.ui-avatars.com/api/?name=Akeelah+Richards"
+  },
+  "authenticate": {
+    "token": "abcdefghijkl123456789.aas"
   }
 }
