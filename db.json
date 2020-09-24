@@ -69,8 +69,8 @@
     "username": "olakoko",
     "firstName": "Olakoko",
     "lastName": "Officer",
-    "emailAddress": "---",
-    "phoneNumber": "+223-998-212-0876",
+    "emailAddress": "",
+    "phoneNumber": "",
     "imageUrl": "https://eu.ui-avatars.com/api/?name=Olakoko+Officer"
   },
   "authenticate": {
