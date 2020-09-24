@@ -66,12 +66,12 @@
     }
   ],
   "profile": {
-    "username": "kira001",
-    "firstName": "Akeelah",
-    "lastName": "Richards",
-    "emailAddress": "kira001@mysite.org",
+    "username": "olakoko",
+    "firstName": "Olakoko",
+    "lastName": "Officer",
+    "emailAddress": "---",
     "phoneNumber": "+223-998-212-0876",
-    "imageUrl": "https://eu.ui-avatars.com/api/?name=Akeelah+Richards"
+    "imageUrl": "https://eu.ui-avatars.com/api/?name=Olakoko+Officer"
   },
   "authenticate": {
     "token": "abcdefghijkl123456789.aas"
